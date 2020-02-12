@@ -11,7 +11,7 @@ While studying at university I was tutoring Russian for an American. He had some
 When I was preparing for an interview for Makers Academy within a week I have completed Ruby course from scratch on Codecademy and went up to 6 kyu on Codewars. After that I felt confident in solving simple problems in Ruby.
 
 **Team player**\
-I was working on a group project while studying at Beetroot Academy. We had less than a week left before presentation and one of teammates went really ill. I made sure his tasks were equally spread between the team in addition to our tasks. After working together we managed to complete our project in time and made great presentation.\
+I was working on a group project while studying at Beetroot Academy. We had less than a week left before presentation and one of teammates went really ill. I made sure his tasks were equally spread between the team in addition to our tasks. After working together we managed to complete our project in time and made great presentation.
 
 Speak English, Russian and Ukrainian
 
@@ -21,7 +21,7 @@ Speak English, Russian and Ukrainian
 OOP, TDD, MVC, DDD\
 Agile/XP\
 Ruby, Rails, JavaScript\
-RSpec, Jasmine\
+RSpec, Jasmine
 
 **Beetroot Academy (February to June 2019) Poltava, Ukraine**\
 Completed Front-End Development course, where I learnt how to create web pages using JavaScript, HTML and CSS from scratch.
@@ -38,4 +38,4 @@ Sales Assistant
 
 Yoga\
 Horse riding\
-Reading\
+Reading
