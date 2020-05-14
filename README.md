@@ -36,7 +36,7 @@ BSc in International Economics
 ## Experience
 
 **Belyi Irbis (January 2016 to January 2019)**\
-Sales Assistant
+Sales Administrator
 
 ## Hobbies
 
