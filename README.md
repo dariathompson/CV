@@ -8,7 +8,7 @@ I am a dedicated, self-motivated full-stack developer and recent graduate of Mak
 While studying at university I was tutoring Russian for an American. He had some knowledge of language but wanted to speak more fluently. In just over a month of hard work we made huge progress and he could understand everything and speak more fluent in Russian.
 
 **Adaptability**\
-After moving to another country and changing schools twice, being adaptable became second nature - and it was only pushed further after going remote after first month at Makers. Whether it be adapting to new way of working or adjusting to ever-changing user requirements, I am more than capable.
+After moving to another country twice and changing schools three times, being adaptable became second nature - and it was only pushed further after going remote after first month at Makers. Whether it be adapting to new way of working or adjusting to ever-changing user requirements, I am more than capable.
 
 **Team player**\
 Working well with others is one of the most important skills in any job. I believe that learning from other people is the fastest way to build your own understanding. I've demonstrated and developed these skills during my previous career in Sales and continue to apply them in group projects at Makers, such as Acebook, Makersbnb in agile teams. After graduating Makers I continued to collaborate with other people to do projects and learn together.
@@ -37,9 +37,12 @@ BSc in International Economics
 
 **Belyi Irbis (January 2016 to January 2019)**\
 Sales Administrator
+* Processing invoices for sales transactions
+* Checking prices and contracts are up to date
+* Communicating internally important feedback from customers
 
 ## Hobbies
 
-Yoga\
-Horse riding\
-Reading
+* Yoga. The best way to relax and stretch after day of coding. Enjoy doing yoga inside or outside, just need my yoga mat and I can disconnect and refocus.
+* Horse riding. I grew up surrounded by animals and for me time that you spend connecting to dog or horse is similar to meditation. You live in the moment and concetrate only on the movement.
+* Reading. I can read and time, anywhere. Just give me an exciting book and I will dissapear for ours.
