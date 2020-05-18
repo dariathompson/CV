@@ -1,13 +1,12 @@
 # Daria Thompson
-![alt text](https://img.shields.io/badge/Ruby-206%20commits-orange.svg "Ruby commits")
 [<img src="https://img.shields.io/badge/Ruby-206%20commits-orange.svg">](https://sourcerer.io/dariathompson)
-![alt text](https://img.shields.io/badge/JavaScript-114%20commits-green.svg "JavaScript commits")
-![alt text](https://img.shields.io/badge/SQL-77%20commits-yellow.svg "SQL commits")
-![alt text](https://img.shields.io/badge/HTML-71%20commits-orange.svg "HTML commits")
-![alt text](https://img.shields.io/badge/CSS-128%20commits-red.svg "CSS commits")
-![alt text](https://img.shields.io/badge/Python-12%20commits-blue.svg "Python commits")
+[<img src="https://img.shields.io/badge/JavaScript-114%20commits-green.svg">](https://sourcerer.io/dariathompson)
+[<img src="https://img.shields.io/badge/SQL-77%20commits-yellow.svg">](https://sourcerer.io/dariathompson)
+[<img src="https://img.shields.io/badge/HTML-71%20commits-orange.svg">](https://sourcerer.io/dariathompson)
+[<img src="https://img.shields.io/badge/CSS-128%20commits-red.svg">](https://sourcerer.io/dariathompson)
+[<img src="https://img.shields.io/badge/Python-12%20commits-blue.svg">](https://sourcerer.io/dariathompson)
 
-I am a dedicated, self-motivated full-stack developer and recent graduate of Makers Academy. I have transitioned into technology after working in Sales. Software development has everything that I am passionate about: constantly learning new things; collaborating with like-minded people and using creativity and logic. I'm looking to join a team where I can continue to learn and become the best developer I can be.
+I am a dedicated, self-motivated full stack developer and recent graduate of Makers Academy. I have transitioned into technology after working in Sales. Software development has everything that I am passionate about: constantly learning new things; collaborating with like-minded people and using creativity and logic. I'm looking to join a team where I can continue to learn and become the best developer I can be.
 
 ## Skills
 
@@ -29,10 +28,10 @@ Speak English, Russian and Ukrainian
 
 | Project          | Summary      | Technologies  | 
 | :------------- | :----------- | :----------- | 
-| Flashcards | balance, transactions | React | 
-| AceBook | Team project to build a Facebook clone | Ruby on Rails, PostgreSQL, RSpec, Travis CI, Heroku | 
-| MakersBNB | Team project to build a AirBNB clone | Ruby on Rails, PostgreSQL, RSpec, Travis CI, Heroku | 
-| Bank Tech Test | Team project to build a AirBNB clone | Ruby on Rails, PostgreSQL, RSpec, Travis CI, Heroku | 
+| [AceBook](https://github.com/dariathompson/acebook-5Makerteers) | Team project to build a Facebook clone | Ruby on Rails, JavaScript, PostgreSQL, RSpec, Bootstrap, Travis CI, Heroku | 
+| [Space Trash](https://github.com/The-Mech-Squad/the_mech_squad) | Makers Academy final project that visualises satellites and space debris, using machine learning to try and predict what these objects could look like in the future | Python, Django, JavaScript, Travis CI, Heroku | 
+| [MakersBNB](https://github.com/dariathompson/MakersBnb) | Team project to build a AirBNB clone | Ruby, PostgreSQL, RSpec | 
+| [Bank Tech Test](https://github.com/dariathompson/bank_tech_test) | Makers tech test to show understanding of object-oriented programming and TDD | Ruby, RSpec, Rubocop | 
 
 ## Education
 
