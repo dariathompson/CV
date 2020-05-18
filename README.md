@@ -2,7 +2,7 @@
 ![alt text](https://img.shields.io/badge/Ruby-206%20commits-orange.svg "Ruby commits")
 ![alt text](https://img.shields.io/badge/JavaScript-114%20commits-green.svg "JavaScript commits")
 ![alt text](https://img.shields.io/badge/SQL-77%20commits-yellow.svg "SQL commits")
-![alt text]("https://img.shields.io/badge/HTML-71%20commits-orange.svg "HTML commits")
+![alt text](https://img.shields.io/badge/HTML-71%20commits-orange.svg "HTML commits")
 ![alt text](https://img.shields.io/badge/CSS-128%20commits-red.svg "CSS commits")
 ![alt text](https://img.shields.io/badge/Python-12%20commits-blue.svg "Python commits")
 
