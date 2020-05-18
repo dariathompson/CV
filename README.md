@@ -1,6 +1,6 @@
 # Daria Thompson
 
-I am a dedicated, self-motivated full-stack developer and recent graduate of Makers Academy. I have transitioned into technology after working in Sales. Software development has everything that I am passionate about: constantly learning new things; collaborating with likeminded people and using creativity and logic. I'm looking to join a team where I can continue to learn and become the best developer I can be.
+I am a dedicated, self-motivated full-stack developer and recent graduate of Makers Academy. I have transitioned into technology after working in Sales. Software development has everything that I am passionate about: constantly learning new things; collaborating with like-minded people and using creativity and logic. I'm looking to join a team where I can continue to learn and become the best developer I can be.
 
 ## Skills
 
@@ -14,7 +14,7 @@ After moving to another country twice and changing schools three times, being ad
 Working well with others is one of the most important skills in any job. I believe that learning from other people is the fastest way to build your own understanding. I've demonstrated and developed these skills during my previous career in Sales and continue to apply them in group projects at Makers, such as Acebook, Makersbnb in agile teams. After graduating Makers I continued to collaborate with other people to do projects and learn together.
 
 **Quick learner**\
-The Makers Academy bootcamp is only 12 weeks long. In that time, I digested a huge amount of information everyday.
+Makers Academy bootcamp is only 12 weeks long and in that short period of time I learnt 3 different languages. For our final project we had less than 2 weeks. In that time I built understanding of Python, machine learning, Django framework and some knowledge about orbits and space debris.
 
 Speak English, Russian and Ukrainian
 
@@ -44,5 +44,5 @@ Sales Administrator
 ## Hobbies
 
 * Yoga. The best way to relax and stretch after day of coding. Enjoy doing yoga inside or outside, just need my yoga mat and I can disconnect and refocus.
-* Horse riding. I grew up surrounded by animals and for me time that you spend connecting to dog or horse is similar to meditation. You live in the moment and concetrate only on the movement.
-* Reading. I can read and time, anywhere. Just give me an exciting book and I will dissapear for ours.
+* Horse riding. I grew up surrounded by animals and for me time that you spend with a horse is similar to meditation. You live in the moment and concetrate only on the movement.
+* Reading. I can read any time, anywhere. Just give me an exciting book and I will dissapear for hours.
