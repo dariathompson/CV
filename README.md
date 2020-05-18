@@ -1,5 +1,6 @@
 # Daria Thompson
 ![alt text](https://img.shields.io/badge/Ruby-206%20commits-orange.svg "Ruby commits")
+[<img src="https://img.shields.io/badge/Ruby-206%20commits-orange.svg">](https://sourcerer.io/dariathompson)
 ![alt text](https://img.shields.io/badge/JavaScript-114%20commits-green.svg "JavaScript commits")
 ![alt text](https://img.shields.io/badge/SQL-77%20commits-yellow.svg "SQL commits")
 ![alt text](https://img.shields.io/badge/HTML-71%20commits-orange.svg "HTML commits")
@@ -26,7 +27,12 @@ Speak English, Russian and Ukrainian
 
 ## Projects
 
-
+| Project          | Summary      | Technologies  | 
+| :------------- | :----------- | :----------- | 
+| Flashcards | balance, transactions | React | 
+| AceBook | Team project to build a Facebook clone | Ruby on Rails, PostgreSQL, RSpec, Travis CI, Heroku | 
+| MakersBNB | Team project to build a AirBNB clone | Ruby on Rails, PostgreSQL, RSpec, Travis CI, Heroku | 
+| Bank Tech Test | Team project to build a AirBNB clone | Ruby on Rails, PostgreSQL, RSpec, Travis CI, Heroku | 
 
 ## Education
 
