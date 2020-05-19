@@ -11,13 +11,13 @@ I am a dedicated, self-motivated full stack developer and recent graduate of Mak
 ## Skills
 
 **Great communicator**\
-While studying at university I was tutoring Russian for an American. He had some knowledge of language but wanted to speak more fluently. In just over a month of hard work we made huge progress and he could understand everything and speak more fluent in Russian.
+While studying at university I also tutored Russian to an American student in my spare time. In just over a month of hard work we made huge progress and he could speak more fluent Russian and had a greater understanding of the language.
 
 **Adaptability**\
-After moving to another country twice and changing schools three times, being adaptable became second nature - and it was only pushed further after going remote after first month at Makers. Whether it be adapting to new way of working or adjusting to ever-changing user requirements, I am more than capable.
+After moving to another country twice and changing schools three times, being adaptable became second nature. It was only pushed further by having to work remotely after first month at Makers. Whether it would be adapting to new way of working or adjusting to ever-changing user requirements, I am more than capable.
 
 **Team player**\
-Working well with others is one of the most important skills in any job. I believe that learning from other people is the fastest way to build your own understanding. I've demonstrated and developed these skills during my previous career in Sales and continue to apply them in group projects at Makers, such as Acebook, Makersbnb in agile teams. After graduating Makers I continued to collaborate with other people to do projects and learn together.
+Working well with others is one of the most important skills in any job. I believe that learning from other people is the fastest way to build your own understanding. I've demonstrated and developed these skills during my previous career in Sales and continue to apply them in group agile projects at Makers, such as Acebook, Makersbnb and Space Trash. After graduating Makers I continued to collaborate with other people to do projects and learn together.
 
 **Quick learner**\
 Makers Academy bootcamp is only 12 weeks long and in that short period of time I learnt 3 different languages. For our final project we had less than 2 weeks. In that time I built understanding of Python, machine learning, Django framework and some knowledge about orbits and space debris.
