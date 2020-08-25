@@ -6,11 +6,7 @@
 [<img src="https://img.shields.io/badge/CSS-206%20commits-red.svg">](https://sourcerer.io/dariathompson)
 [<img src="https://img.shields.io/badge/Python-34%20commits-blue.svg">](https://sourcerer.io/dariathompson)
 
-- [Skills](#skills)
-- [Projects](#projects)
-- [Education](#education)
-- [Experience](#experience)
-- [Hobbies](#hobbies)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
 I am a dedicated, self-motivated full stack developer and recent graduate of Makers Academy. I have transitioned into technology after working in Sales. Software development has everything that I am passionate about: constantly learning new things; collaborating with like-minded people and using creativity and logic. I'm looking to join a team where I can continue to learn and become the best developer I can be.
 
