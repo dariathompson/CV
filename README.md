@@ -1,10 +1,16 @@
 # Daria Thompson
-[<img src="https://img.shields.io/badge/Ruby-250%20commits-orange.svg">](https://sourcerer.io/dariathompson)
-[<img src="https://img.shields.io/badge/JavaScript-161%20commits-green.svg">](https://sourcerer.io/dariathompson)
+[<img src="https://img.shields.io/badge/Ruby-252%20commits-orange.svg">](https://sourcerer.io/dariathompson)
+[<img src="https://img.shields.io/badge/JavaScript-229%20commits-green.svg">](https://sourcerer.io/dariathompson)
 [<img src="https://img.shields.io/badge/SQL-77%20commits-yellow.svg">](https://sourcerer.io/dariathompson)
-[<img src="https://img.shields.io/badge/HTML-89%20commits-orange.svg">](https://sourcerer.io/dariathompson)
-[<img src="https://img.shields.io/badge/CSS-175%20commits-red.svg">](https://sourcerer.io/dariathompson)
-[<img src="https://img.shields.io/badge/Python-12%20commits-blue.svg">](https://sourcerer.io/dariathompson)
+[<img src="https://img.shields.io/badge/HTML-113%20commits-orange.svg">](https://sourcerer.io/dariathompson)
+[<img src="https://img.shields.io/badge/CSS-206%20commits-red.svg">](https://sourcerer.io/dariathompson)
+[<img src="https://img.shields.io/badge/Python-34%20commits-blue.svg">](https://sourcerer.io/dariathompson)
+
+- [Skills](#skills)
+- [Projects](#projects)
+- [Education](#education)
+- [Experience](#experience)
+- [Hobbies](#hobbies)
 
 I am a dedicated, self-motivated full stack developer and recent graduate of Makers Academy. I have transitioned into technology after working in Sales. Software development has everything that I am passionate about: constantly learning new things; collaborating with like-minded people and using creativity and logic. I'm looking to join a team where I can continue to learn and become the best developer I can be.
 
@@ -13,7 +19,7 @@ I am a dedicated, self-motivated full stack developer and recent graduate of Mak
 **Adaptability**\
 After moving countries twice and changing schools three times, being adaptable became second nature to me. This trait was enhanced further during Makers Academy, when the course became remote. Whether adapting to new ways of working in an ever-changing world, or adjusting to user requirements, I am extremely capable.
 
-**Team player**\
+**Teamwork**\
 Working well with others is one of the most important skills in any job. I believe that learning from other people is the fastest way to build your own understanding. I've demonstrated and developed these skills during my previous career in Sales and continue to apply them in group agile projects at Makers, such as Acebook, Makersbnb and Space Trash. After graduating Makers I continued to collaborate with other people to do projects and learn together.
 
 **Quick learner**\
@@ -28,9 +34,9 @@ Speak English, Russian and Ukrainian
 
 | Project          | Summary      | Technologies  | 
 | :------------- | :----------- | :----------- | 
+| [AceBook](https://github.com/dariathompson/acebook-5Makerteers) | Team project to build a Facebook clone | Ruby on Rails, JavaScript, PostgreSQL, RSpec, Bootstrap, Travis CI, Heroku | 
 | [Age UK Volunteers](https://github.com/Age-UK-Voluteer-Matching/Match-App) | App that allows seniors and volunteers to match based on mutual interests. Developed as part of a Hack for Heroes hackathon | Ruby on Rails, PostgreSQL, Fog-AWS, Bootstrap, Travis CI, Heroku | 
 | [Flashcards](https://github.com/DavidStewartLDN/react-flashcards) | App for learning foreign languaages | ReactJS, NodeJS, PostgreSQL, Heroku | 
-| [AceBook](https://github.com/dariathompson/acebook-5Makerteers) | Team project to build a Facebook clone | Ruby on Rails, JavaScript, PostgreSQL, RSpec, Bootstrap, Travis CI, Heroku | 
 | [Space Trash](https://github.com/The-Mech-Squad/the_mech_squad) | Makers Academy final project that visualises satellites and space debris, using machine learning to try and predict what these objects could look like in the future | Python, Django, JavaScript, Travis CI, Heroku | 
 | [Bank Tech Test](https://github.com/dariathompson/bank_tech_test) | Makers tech test to show understanding of object-oriented programming and TDD | Ruby, RSpec, Rubocop | 
 
