@@ -18,8 +18,8 @@ After moving countries twice and changing schools three times, being adaptable b
 **Teamwork**\
 Working well with others is one of the most important skills in any job. I believe that learning from other people is the fastest way to build your own understanding. I've demonstrated and developed these skills during my previous career in Sales and continue to apply them in group agile projects at Makers, such as Acebook, Makersbnb and Space Trash. After graduating Makers I continued to collaborate with other people to do projects and learn together.
 
-**Quick learner**\
-Makers Academy bootcamp runs for just 12 weeks and in that short period of time I learnt 3 different programming languages and most valuably, the art of self-learning. For our final project we were given less than 2 weeks. In that time I built understanding of Python, machine learning, the Django framework and knowledge of orbits and space debris.
+**Problem solving**\
+In my previous career as a Sales Assistant for a construction company we had an issue where we were not meeting targets and needed to come up with a viable solution. I suggested we should host quarterly events where we invite developers to collaborate and discuss the latest trends and technology within the construction industry. This would give us the opportunity to present our products and services, network and further develop relationships with existing or potential clients. As a result sales increased by 20% next quarter.
 
 **Communication**\
 While studying at university I also tutored Russian to an American student in my spare time. In just over a month of hard work we made huge progress and he could speak more fluent Russian and had a greater understanding of the language.
