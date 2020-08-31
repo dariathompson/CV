@@ -12,14 +12,11 @@ I am a junior full-stack developer with a passion for problem solving and an eag
 
 ## Skills
 
-**Adaptability**\
-After moving countries twice and changing schools three times, being adaptable became second nature to me. This trait was enhanced further during Makers Academy, when the course became remote. Whether adapting to new ways of working in an ever-changing world, or adjusting to user requirements, I am extremely capable.
+**Problem solving**\
+In my previous career as a Sales Assistant for a construction company, it was important to have a problem-solving mindset as problems that could arise were sometimes unpredictable and complex. I would always tackle issues with a positive, can-do attitude, and we as a team would often think of effective solutions to ensure the clients' needs were met. We had an issue where we were not meeting targets and needed to come up with a viable solution. I suggested we should start attending construction conferences  so we could carry out market research, learn more about our target audience and better market our products and services to potential clients. As a result, we were able to stay updated on trends, bring awareness to our business and build strong working relationships. To date the business still continues to attend construction conferences.
 
 **Teamwork**\
 Working well with others is one of the most important skills in any job. I believe that learning from other people is the fastest way to build your own understanding. I've demonstrated and developed these skills during my previous career in Sales and continue to apply them in group agile projects at Makers, such as Acebook, Makersbnb and Space Trash. After graduating Makers I continued to collaborate with other people to do projects and learn together.
-
-**Problem solving**\
-In my previous career as a Sales Assistant for a construction company we had an issue where we were not meeting targets and needed to come up with a viable solution. I suggested we should host quarterly events where we invite developers to collaborate and discuss the latest trends and technology within the construction industry. This would give us the opportunity to present our products and services, network and further develop relationships with existing or potential clients. As a result sales increased by 20% next quarter.
 
 **Communication**\
 While studying at university I also tutored Russian to an American student in my spare time. In just over a month of hard work we made huge progress and he could speak more fluent Russian and had a greater understanding of the language.
