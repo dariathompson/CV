@@ -19,7 +19,7 @@ In my previous career as a Sales Assistant for a construction company, it was im
 Working well with others is one of the most important skills in any job. I believe that learning from other people is the fastest way to build your own understanding. I've demonstrated and developed these skills during my previous career in Sales and continue to apply them in group agile projects at Makers, such as Acebook, Makersbnb and Space Trash. After graduating Makers I continued to collaborate with other people to do projects and learn together.
 
 **Communication**\
-While studying at university I also tutored Russian to an American student in my spare time. In just over a month of hard work we made huge progress and he could speak more fluent Russian and had a greater understanding of the language.
+Studying at Makers reinforced the importance of open communication. Across numerous projects I worked with students who each had different strengths and abilities. I facilitated daily conversations with members of the team to ensure they felt valued, listened to, and could share their ideas for the project. I would also encourage honest feedback from my cohorts, as regular feedback is key not only for self and team development but for improving your product and service. It enabled us to see what aspects of our coding process we needed to concentrate on and improve. I also found assisting others helped to reinforce my own learning. I truly believe open communication is key to a healthy business. Through this we can raise self-awareness, empathy and social skills. 
 
 Speak English, Russian and Ukrainian
 
