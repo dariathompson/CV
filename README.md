@@ -35,7 +35,7 @@ Speak English, Russian and Ukrainian
 
 ## Education
 
-**Makers Academy (February to May 2020)**\
+**Makers Academy (February to May 2020)**
 * OOP, TDD, MVC, DDD
 * Agile/XP
 * Pair programming
@@ -44,7 +44,7 @@ Speak English, Russian and Ukrainian
 * React, Node.js, React Native
 * RSpec, Jasmine, Jest
 
-**Beetroot Academy (February to June 2019) Poltava, Ukraine**\
+**Beetroot Academy (February to June 2019) Poltava, Ukraine**
 * Front-End Development
 * JavaScript, HTML, CSS
 * Responsive Web Design
