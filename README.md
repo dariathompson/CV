@@ -8,7 +8,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-I am a junior full-stack developer with a passion for problem solving and an eagerness to learn. As a kid I was obsessed with puzzles, so when I completed a Front End Development course at [Beetroot Academy](https://beetroot.academy/en/), it was only natural my love for coding began to grow. The creativity and logic required to solve complex problems, the endless learning and being able to see your ideas come to life, it is everything that I am passionate about. It has allowed me to co-create one of my projects [Puppy Pals](https://github.com/dariathompson/puppy-pals), an app that helps owners match dogs for socialization, training and play dates. I am now ready to join a team where I can continue my learning and utilise my programming skills and experience of working in logistics to help contribute in solving real world problems.
+I am a junior full-stack developer with a passion for problem solving and an eagerness to learn. As a kid I was obsessed with puzzles, so when I completed a Front End Development course at [Beetroot Academy](https://beetroot.academy/en/), it was only natural my love for coding began to grow. The creativity and logic required to solve complex problems, the endless learning and being able to see your ideas come to life, it is everything that I am passionate about. Currently I am working on a project [Puppy Pals](https://github.com/dariathompson/puppy-pals), an app that helps owners match dogs for socialization, training and play dates. I am now ready to join a team where I can continue my learning and utilise my programming skills and experience of working in logistics to help contribute in solving real world problems.
 
 ## Skills
 
@@ -20,8 +20,6 @@ Working well with others is one of the most important skills in any job. I belie
 
 **Communication**\
 Studying at Makers reinforced the importance of open communication. Across numerous projects I worked with students who each had different strengths and abilities. I facilitated daily conversations with members of the team to ensure they felt valued, listened to, and could share their ideas for the project. I would also encourage honest feedback from my cohorts, as regular feedback is key not only for self and team development but for improving your product and service. It enabled us to see what aspects of our coding process we needed to concentrate on and improve. I also found assisting others helped to reinforce my own learning. I believe open communication is key to a healthy business. Through this we can raise self-awareness, empathy and social skills. 
-
-Speak English, Russian and Ukrainian
 
 ## Projects
 
@@ -56,12 +54,13 @@ BSc in International Economics
 
 **Belyi Irbis (January 2016 to January 2019)**\
 Sales Administrator
-* Made product presentations in front of panels of clients.
-* Negotiated pricing, quantity and lead-time delivery terms and key product inputs from factories and suppliers.
+* Represented the company at conferences and events to market our products and services and develop relationships with prospective clients. 
+* Ensured orders from client are recorded accurately and received on time
+* Key product inputs from factories and suppliers and inform clients of lead-time delivery terms. 
 * Assisted customers with product evaluation and used my knowledge of product lines to advise best alternatives.
 
 ## Hobbies
 
-* Yoga. The best way to relax and stretch after day of coding. Enjoy doing yoga inside or outside, just need my yoga mat and I can disconnect and refocus.
-* Horse riding. I grew up surrounded by animals and for me time that you spend with a horse is similar to meditation. You live in the moment and concetrate only on the movement.
-* Reading. I can read any time, anywhere. Just give me an exciting book and I will dissapear for hours.
+* Yoga - the best way to relax and refocus after a day of coding.
+* Languages - fluent in Russian, English and Ukrainian. Currently learning French.
+* Reading - I can read any time, anywhere. Just give me a good book and I will dissapear for hours.
