@@ -8,7 +8,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-I am a dedicated, self-motivated full stack developer and recent graduate of Makers Academy. I have transitioned into technology after working in Sales. Software development has everything that I am passionate about: constantly learning new things; collaborating with like-minded people and using creativity and logic. I'm looking to join a team where I can continue to learn and become the best developer I can be.
+I am a junior full-stack developer with a passion for problem solving and an eagerness to learn. As a kid I was obsessed with puzzles, so when I completed a Front End Development course at Beetroot Academy, it was only natural my love for coding began to grow. The creativity and logic required to solve complex problems, the endless learning and being able to see your ideas come to life, it is everything that I am passionate about. It has allowed me to co-create one of my hobbies ‘Puppy Pals’ which is an app that aims to help owners match appropriate dogs for socialization, training and play dates! I am now ready to join a team where I can continue my learning and utilise my programming skills and experience of working in logistics to help contribute in solving real world problems.
 
 ## Skills
 
