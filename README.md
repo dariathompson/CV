@@ -54,10 +54,10 @@ BSc in International Economics
 
 **Belyi Irbis (January 2016 to January 2019)**\
 Sales Administrator
-* Represented the company at conferences and events to market our products and services and develop relationships with prospective clients. 
 * Ensured orders from client are recorded accurately and received on time
 * Key product inputs from factories and suppliers and inform clients of lead-time delivery terms. 
 * Assisted customers with product evaluation and used my knowledge of product lines to advise best alternatives.
+* Represented the company at conferences and events to market our products and services and develop relationships with prospective clients. 
 
 ## Hobbies
 
